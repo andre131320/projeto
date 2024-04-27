@@ -44,7 +44,3 @@ ensino de tecnologias WEB.
   Esse projeto esta sob a Licença MIT.
 
   Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-
-  
-
-</br>
