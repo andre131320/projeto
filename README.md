@@ -18,29 +18,29 @@ ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="prjeto DevLinks" src=".github/preview.jpg"
-  width="100%>
-  </p>
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+</p>
+  
+## Tecnologias
 
-  ## Tecnologias
+Esses projeto foi desenvolvido com as seguintes tecnologias:
 
-  Esses projeto foi desenvolvido com as seguintes tecnologias:
+-HTML e CSS
+-JavaScript
+-git e Github
+-Figma
 
-  -HTML e CSS
-  -JavaScript
-  -git e Github
-  -Figma
+## Projeto
 
-  ## Projeto
+o DevLinks é um agregador de links para usar como cartão de visitas online.
 
-  o DevLinks é um agregador de links para usar como cartão de visitas online.
+## Layout
 
-  ## Layout
+Você pode visualizar o layout do projeto atravéz  [DESSE LINK](https://www.figma.com/file/MF894TdzM99Fg95su4KyMq/DeviLinks-(Copy)?node-id=1%3A113&t=8x94o7ecTaQMC2C5-1/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo
 
-  Você pode visualizar o layout do projeto atravéz  [DESSE LINK](https://www.figma.com/file/MF894TdzM99Fg95su4KyMq/DeviLinks-(Copy)?node-id=1%3A113&t=8x94o7ecTaQMC2C5-1/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo
+## :memo: Licença
+   
+  ---
+Esse projeto esta sob a Licença MIT.
 
-  ## :memo: Licença
-
-  Esse projeto esta sob a Licença MIT.
-
-  Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
